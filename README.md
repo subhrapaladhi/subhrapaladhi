@@ -1,3 +1,5 @@
+<div style="font-size: 125%">
+
 # Hello world !
 I am a <b>Backend Developer, Devpos enthusiast and tech bloger</b>. I love learning cool things and make a projects. I am curretly doing my Btech in Information Technology from VIT, Vellore, India.
 
@@ -29,3 +31,4 @@ I am a <b>Backend Developer, Devpos enthusiast and tech bloger</b>. I love learn
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=subhrapaladhi.subhrapaladhi)
+</div>
