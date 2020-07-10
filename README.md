@@ -11,8 +11,8 @@ I am a Backend developer curretly doing my Btech in Information Technology from 
 
 - :smile: [My Resume](https://drive.google.com/file/d/1G5v87ZfdFg7RO4PHZeMp6N_R_XGfzu7N/view?usp=sharing)
 
-- 🗒 Read my blog at : [Medium](medium.com/@subhrapaladhi9)
+- 🗒 Read my blog at : [Medium](https://medium.com/@subhrapaladhi9)
 
 - :email: Email me at : subhrapaladhi9@gmail.com
 
-- :telephone_receiver: Connect with me on : [Twitter](twitter.com/imfreakingenius)
+- :telephone_receiver: Connect with me on : [Twitter](https://twitter.com/imfreakingenius)
