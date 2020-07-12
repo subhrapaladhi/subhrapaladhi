@@ -2,9 +2,9 @@
 I am a <b>Backend Developer, Devpos enthusiast and tech bloger</b>. I love learning cool things and make a projects. I am curretly doing my Btech in Information Technology from VIT, Vellore, India.
 
 ## What I am doing currently?
-- 🏢 Currently I am living in Agra, UP, India.
+- 🏢  I am living in Agra, UP, India.
 
-- ⚡ Currently learning <b>Devops and machine learning with python.</b>
+- ⚡  Learning <b>Devops and machine learning with python.</b>
 
 ## My tools?
 - 💻 In :heart: Ubuntu20.04
