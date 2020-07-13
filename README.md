@@ -1,25 +1,23 @@
 # Hello world !
-I am a <b>Backend Developer, Devpos enthusiast and tech bloger</b>. I love learning cool things and make a projects. I am curretly doing my Btech in Information Technology from VIT, Vellore, India.
+I am a <b>Backend Developer, Devpos and ML enthusiast and tech bloger</b>. I love learning cool things and make projects. I am curretly doing my Btech in Information Technology from VIT, Vellore, India. Currently I am living in Agra, UP, India.
 
-## What I am doing currently?
-- 🏢  I am living in Agra, UP, India.
+⚡  Nowadays I am learning <b>AWS and machine learning with python.</b>
 
-- ⚡  Learning <b>Devops and machine learning with python.</b>
+:muscle: I am proficent in <b>TypeScript, C++, MongoDB, SQL, Python. 
+ 
+:point_right: I am Also familier with AWS, ML, Java, Deno JS, HTML, CSS</b>.
 
-## My tools?
-- 💻 In :heart: Ubuntu20.04
 
-- :ledger: VS Code is my text editor.
+💻 I use <b>Ubuntu20.04</b> as my operating system and <b>VS code</b> as my text editor. And yes, I :heart: Dark theme.
+<b>Checkout my custom VS Code setup here</b>: <a href="https://github.com/subhrapaladhi/Visual-Studio-Code-Set-Up">VS Code setup</a>
 
-## My skills?
-- :muscle: Proficent in <b>TypeScript, C++, MongoDB, SQL. Also familier with AWS, Python, Java, Deno JS</b>.
+:smile: <b>Check out my [My Resume](https://drive.google.com/file/d/1G5v87ZfdFg7RO4PHZeMp6N_R_XGfzu7N/view?usp=sharing)<b>
 
-## My resume?
-- :smile: Check out my [My Resume](https://drive.google.com/file/d/1G5v87ZfdFg7RO4PHZeMp6N_R_XGfzu7N/view?usp=sharing)
+:musical_note:<b> Check out my favourite music on [Spotify](https://open.spotify.com/user/31xaorsiqs2r3m5kdfihfsohcnya?si=Ld3Rq9jSQoGGYb-J32-Kgg)</b>
 
-## Check out my [Spotify](https://open.spotify.com/user/31xaorsiqs2r3m5kdfihfsohcnya?si=Ld3Rq9jSQoGGYb-J32-Kgg)
+![Subhra Paladhi Github Stats](https://github-readme-stats.vercel.app/api?username=subhrapaladhi&show_icons=true)
 
-# My contact info?
+# My contact info
 :email: Email: subhrapaladhi9@gmail.com
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imfreakingenius)
