@@ -14,7 +14,6 @@
 
 💬 Don't talk to me too much. I get philosophical pretty soon 🙃
 
-<br>
 
 --- 
 
