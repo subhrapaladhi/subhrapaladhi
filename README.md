@@ -1,19 +1,18 @@
 # Hello world !
-I am a <b>Backend Developer, Devpos and ML enthusiast and tech bloger</b>. I love learning cool things and make projects. I am curretly doing my Btech in Information Technology from VIT, Vellore, India. Currently I am living in Agra, UP, India.
 
-⚡  Nowadays I am learning <b>AWS and machine learning with python.</b>
+## Backend Developer | DevOps | ML | Competitive Coder
 
-:muscle: I am proficent in <b>TypeScript, C++, MongoDB, SQL, Python. 
+🔭 Nowadays I am learning <b>machine learning and AI</b>
+
+⚡  I love Backend Development 
+
+:fire: I am proficent in <b>TypeScript, C++, MongoDB, SQL, Python.</b> 
  
-:point_right: I am Also familier with AWS, ML, Java, Deno JS, HTML, CSS</b>.
+:parasol_on_ground: I am Also familier with AWS, ML, Java, HTML, CSS</b>.
 
+:mailbox: Feel free to reach out to me through email or twitter
 
-💻 I use <b>Ubuntu20.04</b> as my operating system and <b>VS code</b> as my text editor. And yes, I :heart: Dark theme.
-<b>Checkout my custom VS Code setup here</b>: <a href="https://github.com/subhrapaladhi/Visual-Studio-Code-Set-Up">VS Code setup</a>
-
-:smile: <b>Check out my [My Resume](https://drive.google.com/file/d/1G5v87ZfdFg7RO4PHZeMp6N_R_XGfzu7N/view?usp=sharing)<b>
-
-:musical_note:<b> Check out my favourite music on [Spotify](https://open.spotify.com/user/31xaorsiqs2r3m5kdfihfsohcnya?si=Ld3Rq9jSQoGGYb-J32-Kgg)</b>
+💬 Don't talk to me too much. I get philosophical pretty soon 🙃
 
 ![Subhra Paladhi Github Stats](https://github-readme-stats.vercel.app/api?username=subhrapaladhi&show_icons=true)
 
