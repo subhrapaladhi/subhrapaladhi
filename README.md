@@ -1,28 +1,38 @@
-# Hello world !
+# Hi there 👋
 
 ## Backend Developer | DevOps | ML | Competitive Coder
 
-🔭 Nowadays I am learning <b>machine learning and AI</b>
+🔭 Nowadays I am learning machine learning and AI.
 
 ⚡  I love Backend Development 
 
-:fire: I am proficent in <b>TypeScript, C++, MongoDB, SQL, Python.</b> 
+:fire: I am proficent in TypeScript, C++, MongoDB, SQL, Python.
  
-:parasol_on_ground: I am Also familier with AWS, ML, Java, HTML, CSS</b>.
+:parasol_on_ground: I am Also familier with AWS, Docker, ML, Java, HTML, CSS.
 
 :mailbox: Feel free to reach out to me through email or twitter
 
 💬 Don't talk to me too much. I get philosophical pretty soon 🙃
 
-![Subhra Paladhi Github Stats](https://github-readme-stats.vercel.app/api?username=subhrapaladhi&show_icons=true)
+<br>
 
-# My contact info
+--- 
+
+<br>
+
 :email: Email: subhrapaladhi9@gmail.com
 
+<br>
+
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imfreakingenius)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/subhrapaladhi/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/subhrapaladhi/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Follow on Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@subhrapaladhi9)
 
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=subhrapaladhi.subhrapaladhi)
+--- 
+
+<br>
+
+![Subhra Paladhi Github Stats](https://github-readme-stats.vercel.app/api?username=subhrapaladhi&show_icons=true)
