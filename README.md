@@ -10,16 +10,14 @@
  
 :parasol_on_ground: I am Also familier with AWS, Docker, ML, Java, HTML, CSS.
 
-:mailbox: Feel free to reach out to me through email or twitter
+:mailbox: Feel free to reach out to me through email or linkedin
 
-💬 Don't talk to me too much. I get philosophical pretty soon 🙃
 
 
 --- 
 
 :email: Email: subhrapaladhi9@gmail.com
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imfreakingenius)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/subhrapaladhi/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Follow on Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@subhrapaladhi9)
 
