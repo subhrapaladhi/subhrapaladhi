@@ -1,14 +1,14 @@
 # Hi there 👋
 
-## Backend Developer | DevOps | ML | Competitive Coder
+## Full-Stack Development | Back-end Development | DevOps | DSA
 
-🔭 Nowadays I am learning machine learning and AI.
+🔭 Currently working on some web development projects.
 
 ⚡  I love Backend Development 
 
-:fire: I am proficent in TypeScript, C++, MongoDB, SQL, Python.
+:fire: I am proficent in JavaScript, C++, MongoDB, SQL, Java.
  
-:parasol_on_ground: I am Also familier with AWS, Docker, ML, Java, HTML, CSS.
+:parasol_on_ground: I am Also familier with AWS, Docker, ML, Python, HTML, CSS.
 
 :mailbox: Feel free to reach out to me through email or linkedin
 
