@@ -2,13 +2,13 @@
 
 ## Full-Stack Development | Back-end Development | DevOps | DSA
 
-🔭 Currently working on some web development projects.
+🔭 Currently working on some web development projects and learning GoLang.
 
 ⚡  I love Backend Development 
 
-:fire: I am proficent in JavaScript, C++, MongoDB, SQL, Java.
+:fire: I am proficent in TypeScript, JavaScript, NodeJS, C++, MongoDB, SQL, Java.
  
-:parasol_on_ground: I am Also familier with AWS, Docker, ML, Python, HTML, CSS.
+:parasol_on_ground: I am Also familier with AWS, Docker, ML, Python, PHP, HTML, CSS.
 
 :mailbox: Feel free to reach out to me through email or linkedin
 
